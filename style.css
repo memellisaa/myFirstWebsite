@@ -1,0 +1,60 @@
+h1{
+	font-size: 500%;
+	color: dimgrey;
+}
+
+h2{
+	font-size: 200%;
+	color: #bdd7ea;
+}
+
+#banner{
+	width:  100%;
+}
+
+#logo{
+	width: 30%;
+}
+
+#signInIcon {
+	width: 5%;
+}
+
+#menuIcon {
+	width: 2%;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+
+}
+
+p {
+	font-size: 150%;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+}
+
+.place {
+	height: 330px;
+	width: 330px;
+	object-fit: cover;
+	border-radius: 50px;
+}
+
+li {
+	list-style-type: none;
+	/*line-height: 30px;*/
+	margin:  10px;
+	/*padding:  10px;*/
+	color: #f0c9d7;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
